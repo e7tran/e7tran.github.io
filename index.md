@@ -16,6 +16,8 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 ![image](https://user-images.githubusercontent.com/93348111/193199908-60e7c718-ebde-40a2-b600-0bd728b54980.png)
 ![image](https://user-images.githubusercontent.com/93348111/193200244-21f1ec5a-30a0-4dcd-a288-eeaa22512462.png)
 ![image](https://user-images.githubusercontent.com/93348111/193200053-e227f8cf-bc64-4e2d-8862-09b71796628d.png)
+![image](https://user-images.githubusercontent.com/93348111/193203147-863d8657-fbf0-4245-b529-be9c05025d0b.png)
+
 
 Click [Here](#Here)
 
