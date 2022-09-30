@@ -1,4 +1,5 @@
 # Eric's User Page
+Click [Here](#Here)
 _CS student who is trying his best_
 >Do, Or do not, There is no try.
 
@@ -19,9 +20,7 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 ![image](https://user-images.githubusercontent.com/93348111/193203147-863d8657-fbf0-4245-b529-be9c05025d0b.png)
 
 
-Click [Here](#Here)
-&nbsp;
-&nbsp;
-&nbsp;
+
+
 ### Here
 ![image](https://user-images.githubusercontent.com/93348111/193202899-1fe879a0-79e3-455f-bd16-908cd88127c5.png)
