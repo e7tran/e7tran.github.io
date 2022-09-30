@@ -20,11 +20,8 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 
 
 Click [Here](#Here)
-&ensp
-&ensp
-&ensp
-&ensp
-&ensp
-&ensp
+&nbsp;
+&nbsp;
+&nbsp;
 ### Here
 ![image](https://user-images.githubusercontent.com/93348111/193202899-1fe879a0-79e3-455f-bd16-908cd88127c5.png)
