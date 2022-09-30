@@ -1,5 +1,5 @@
 # Eric's User Page
-Click [Here](#Here)
+Click [Here](#Get-Rick-Rolled)
 
 _CS student who is trying his best_
 >Do, Or do not, There is no try.
@@ -23,5 +23,5 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 
 
 
-### Here
+### Get Rick Rolled
 ![image](https://user-images.githubusercontent.com/93348111/193202899-1fe879a0-79e3-455f-bd16-908cd88127c5.png)
