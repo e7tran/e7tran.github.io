@@ -26,6 +26,16 @@ ALSO, DO NOT CLICK [HERE!!!](https://www.youtube.com/watch?v=4RSPh-JnsBA)
 
 [Lets GOOO!!!](README.md)
 
+### Favorite Male Singers
+1. Michael Jackson
+2. Bruno Mars
+3. The Weeknd
+
+### Favorite Superheroes
+- Iron Man
+- Spiderman 
+- The Flash
+
 
 
 ### Get Rick Rolled
