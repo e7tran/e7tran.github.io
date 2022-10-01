@@ -20,6 +20,7 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 ![image](https://user-images.githubusercontent.com/93348111/193200053-e227f8cf-bc64-4e2d-8862-09b71796628d.png)
 ![image](https://user-images.githubusercontent.com/93348111/193203147-863d8657-fbf0-4245-b529-be9c05025d0b.png)
 
+[Lets GO!!!](README.md)
 
 
 
