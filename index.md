@@ -22,6 +22,8 @@ Not really familiar with git in general, commands like `git status`, `git stash`
 
 DO NOT CLICK [HERE!!!](https://shattereddisk.github.io/rickroll/rickroll.mp4)
 
+DO NOT CLICK [HERE] EITHER(https://www.youtube.com/watch?v=4RSPh-JnsBA)
+
 [Lets GOOO!!!](README.md)
 
 
