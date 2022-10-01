@@ -36,6 +36,17 @@ Lets GOOO!!! ... to my [README file](README.md)
 - Spiderman 
 - The Flash
 
+### CS classes at UCSD
+- [x] cse8A
+- [x] cse8B
+- [x] cse12
+- [x] cse15L
+- [x] cse21
+- [x] cse30
+- [x] cse100
+- [x] cse105
+- [ ] cse101
+- [ ] cse110
 
 
 ### Get Rick Rolled
