@@ -24,7 +24,7 @@ DO NOT CLICK [HERE!!!](https://shattereddisk.github.io/rickroll/rickroll.mp4)
 
 ALSO, DO NOT CLICK [HERE!!!](https://www.youtube.com/watch?v=4RSPh-JnsBA)
 
-[Lets GOOO!!! ... to my README file](README.md)
+Lets GOOO!!! ... to my [README file](README.md)
 
 ### Favorite Male Singers
 1. Michael Jackson
