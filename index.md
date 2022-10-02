@@ -1,6 +1,8 @@
 # Eric's User Page
 Click [Here](#Get-Rick-Rolled)
 
+Click for the [GOAT](#Some-of-my-favorite-things)
+
 _CS student who is trying his best_
 >Do, Or do not, There is no try.
 
